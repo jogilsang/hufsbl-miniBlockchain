@@ -6,18 +6,23 @@ Image
 =============
 
 - hash_compare
+
 ![Alt text](/introduce/hash_compare.gif)
 
 - hash_output
+
 ![Alt text](/introduce/hash_output.gif)
 
 - mining
+
 ![Alt text](/introduce/mining.gif)
 
 - modulation(x)
+
 ![Alt text](/introduce/Modulation2.png)
 
 - modulation(O)
+
 ![Alt text](/introduce/Modulation1.png)
 
 
