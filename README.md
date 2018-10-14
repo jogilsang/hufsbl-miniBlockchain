@@ -5,18 +5,21 @@ for study blockchain and develop blockchain
 Image
 =============
 
-- hash_compare  
+- hash_compare
 ![Alt text](/introduce/hash_compare.gif)
 
-- hash_output  
+- hash_output
 ![Alt text](/introduce/hash_output.gif)
 
-- mining  
+- mining
 ![Alt text](/introduce/mining.gif)
 
-- modulation  
-![Alt text](/introduce/Modulation1.png)
+- modulation(x)
 ![Alt text](/introduce/Modulation2.png)
+
+- modulation(O)
+![Alt text](/introduce/Modulation1.png)
+
 
 <hr/>
 
